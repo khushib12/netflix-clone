@@ -2,19 +2,5 @@
 
 ## Demo
 
-<img src = "netflixgif.gif"/>
+https://netflix-clone-using-reac-b9e3c.web.app/
 
-## Node Packages
-
-React-Youtube, React-indiana-drag-scroll, movie-trailer
-
-## Installation
-
-Use npm to install dependencies
-
-run the following commands in terminal:
-
-```javascript
-run npm install
-run npm run start
-```
